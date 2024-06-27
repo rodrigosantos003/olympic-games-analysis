@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "list.h": "c",
+        "string.h": "c",
+        "stringwrap.h": "c",
+        "loading.h": "c",
+        "athlete.h": "c",
+        "host.h": "c",
+        "utils.h": "c",
+        "input.h": "c",
+        "map.h": "c",
+        "stdlib.h": "c",
+        "ctype.h": "c",
+        "medals_analysis.h": "c"
+    }
+}
