@@ -1,7 +1,5 @@
 # ATAD 23/24 - Project
 ## Respository
-Link: https://github.com/estsetubal-atad-2023-24-projetos/projeto-en-assignment-pm_202100722
-
 Authors:
 - João Fernandes - 202100718
 - Rodrigo Santos - 202100722
